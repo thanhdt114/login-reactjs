@@ -1,9 +1,5 @@
 # 1. Install library
-'''
-npm install
-'''
+<code>npm install</code>
 
 # 2. Run website.
-'''
-npm run dev
-'''
+<code>npm run dev</code>
